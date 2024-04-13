@@ -29,7 +29,7 @@ npm install
 or
 
 ```bash
-yarn install
+yarn
 ```
 
 ## Running the Examples
@@ -37,7 +37,7 @@ yarn install
 Ensure that you have set up your database and connection properly in the `app.js` file. Then, you can run the examples using the following command:
 
 ```bash
-npm start
+npm run dev
 ```
 
 ## Examples
