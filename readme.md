@@ -16,7 +16,6 @@ Before running the examples, make sure you have the following installed:
 
 - Node.js
 - npm or yarn
-- MySQL or any other relational database management system (RDBMS) of your choice
 
 ## Installing Dependencies
 
