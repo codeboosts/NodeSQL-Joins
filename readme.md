@@ -1,7 +1,4 @@
-Certainly! Here's the README file content in markdown format:
-
-```markdown
-# NodeSQL-Joins
+## NodeSQL-Joins
 
 This repository provides examples of SQL join operations within a Node.js environment. If you're working with relational databases in Node.js and need to understand how to perform JOINs efficiently, this repository is for you.
 
@@ -10,7 +7,7 @@ This repository provides examples of SQL join operations within a Node.js enviro
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/zeshan-tech/NodeSQL-Joins
 ```
 
 ## Prerequisites
@@ -64,6 +61,3 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can copy this markdown content into a file named `README.md` in the root of your repository. Make sure to replace `<repository-url>` with the actual URL of your repository.
